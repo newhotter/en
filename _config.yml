@@ -1,0 +1,5 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://en.liuhao.me
+author: 刘浩
+pygments: true
